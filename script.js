@@ -53,7 +53,7 @@ function processCommand(cmd) {
       output.innerHTML += `<p>${commands[command]}</p>`;
       // Show image for specific commands
       if (command === 'network') {
-        showImage('Shinji_Bleach.jpg');
+        showImage('photos/Shinji_Bleach.jpg');
       }
       // You can add more image mappings here later
     } else {

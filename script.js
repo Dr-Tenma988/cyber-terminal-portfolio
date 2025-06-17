@@ -13,7 +13,7 @@ Available commands:
 - clear        Clear the terminal
 `,
   whoami: `
-Name: YourAlias
+Name: Posiedon
 Aspiring Cybersecurity Enthusiast
 Always learning and exploring the digital frontier.
   `,
